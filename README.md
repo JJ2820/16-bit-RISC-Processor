@@ -1,6 +1,6 @@
 # 16-bit-RISC-Processor
-CAPSTONE PROJECT 16-bit RISC Processor
-This capstone project revolves around creating a functional 16-bit RISC processor using Verilog. The processor's design is rooted in a specialized instruction set and employs the Harvard architecture model for its data path structure, which enhances efficiency by enabling separate instruction and data memory access.
+
+This project revolves around creating a functional 16-bit RISC processor using Verilog. The processor's design is rooted in a specialized instruction set and employs the Harvard architecture model for its data path structure, which enhances efficiency by enabling separate instruction and data memory access.
 The project involves translating the processor's design into Verilog code, encompassing essential modules such as the Arithmetic Logic Unit, Control Unit, Register File, Instruction Memory, and Data Memory. Each module is meticulously crafted to reflect its intended function while adhering to digital logic design principles.
 Verification is a crucial phase, achieved using Xilinx ISIM, a simulation tool. Tailored test benches administer diverse inputs to assess module and system responses. Simulation outcomes are rigorously analyzed to ensure alignment with anticipated results.
 The successful verification underscores a significant achievement, showcasing adept comprehension of digital circuit design, processor architecture, and Verilog programming. Beyond technical prowess, the project provides practical insights into translating theoretical concepts into functional hardware systems.
